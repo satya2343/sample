@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Base Adapter</string>
+    <string-array name="namaMhs">
+        <item>Satya</item>
+        <item>Bima</item>
+        <item>Luc</item>
+        <item>doll</item>
+        <item>ssh</item>
+    </string-array>
+    <string-array name="nimMhs">
+        <item>i0714000</item>
+        <item>i0714001</item>
+        <item>i0714002</item>
+        <item>i0714003</item>
+        <item>i0714004</item>
+    </string-array>
+</resources>
